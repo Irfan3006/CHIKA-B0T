@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@google-cloud/dialogflow": "^5.2.0",
+    "@grpc/grpc-js": "^1.6.9",
+    "@open-wa/wa-decrypt": "^4.4.0",
+    "@yimura/scraper": "^1.2.3",
+    "axios": "^0.27.2",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "google-it": "^1.6.3",
+    "helmet": "^5.1.1",
+    "mime-types": "^2.1.35",
+    "qrcode-terminal": "^0.12.0",
+    "random-picture": "^4.0.6",
+    "replace-string": "^4.0.0",
+    "str_replace": "^0.1.6",
+    "str-replace": "^0.0.5",
+    "uuid": "^8.3.2",
+    "wa-decrypt": "^1.0.4",
+    "weather-js": "^2.0.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
