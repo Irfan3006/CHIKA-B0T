@@ -1,2 +1,4 @@
 # CHIKA-B0T
-HAI SAYA SEDANG BELAJAR
+Chika Bot adalah bot berbasi whatsapp yang dikembangkan menggunakan javascript
+
+verssion 3.9
